@@ -1,0 +1,6 @@
+{
+  "name": "Room Furnisher",
+  "description": "Virtually furnish your room with products from online store links. Analyze compatibility and placement with Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
